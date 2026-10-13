@@ -1,0 +1,6 @@
+{
+  "name": "NBA Cap Space & Roster Value Allocation Dashboard",
+  "description": "Executive front-office NBA analytics terminal for salary cap tracking, roster value tiers, luxury tax aprons, and multi-year cap simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
